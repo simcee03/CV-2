@@ -1,0 +1,44 @@
+@media screen and (min-width:150px) and (max-width:1210px){
+.container_grid{
+grid-template-columns: 5% 95%;
+}
+.menu{
+background: rgba(5, 65, 143, 0.473);
+}
+.profile_container{
+display: none;
+visibility: hidden;
+}
+.Container_menuA{
+display: none;
+visibility: hidden;
+}
+.ico_container{
+display: none;
+visibility: hidden;
+}
+.arrow{
+display: block;
+visibility: visible;
+}
+.container_personal_info{
+width: 95vw;
+}
+.container_education{
+width: 95vw;
+}
+.container_work{
+width: 95vw;
+}
+.container_skils{
+width: 95vw;
+}
+.container_contact{
+width: 95vw;
+}
+.contC{
+height: 37vh;
+width: 19vw;
+}
+
+}

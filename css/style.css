@@ -233,11 +233,14 @@ flex-wrap: wrap;
 align-content: space-around;
 justify-content: space-around;
 align-items: flex-start;
-height: 330px;
-width: 310px;
+height: 23vh;
+width: 22vw;
 border-radius: 15px;
+transition: all 0.5s ease 0s;
 }
-
+.contB{
+height: ;
+}
 .contC{
 display: flex;
 flex-direction: column;
@@ -256,6 +259,8 @@ transition: all 0.5s ease 0s;
 background: rgba(16, 106, 224, 0.89);
 color: white;
 box-shadow: 5px 10px 30px rgba(16, 106, 224, 0.89);
+height: 34.5vh;
+width: 17.5vw;
 }
 
 .fas_icon_big{

@@ -222,6 +222,8 @@ transition: all 0.5s ease 0s;
 background: rgba(16, 106, 224, 0.89);
 color: white;
 box-shadow: 5px 10px 30px rgba(16, 106, 224, 0.89);
+height: 34.5vh;
+width: 21.5vh;
 }
 
 .contB{
